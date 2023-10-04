@@ -11,15 +11,15 @@
 This Power BI report enables the user to traverse any[^1] conceivable ruleset within 1D Cellular Automaton domain. Logic behind it is written using Power Query M formula language.  
 
 
-| <img src="README/rule30.PNG" /> | 
+| <img src="README/rule30.png" /> | 
 |:--:| 
 | *Rule 30, two states, three neighbours* |
 
-| <img src="README/threestate.PNG" /> | 
+| <img src="README/threestate.png" /> | 
 |:--:| 
 | *Rule 3500019999922, three states, three neighbours* |
 
-| <img src="README/fiveneighbours.PNG" /> | 
+| <img src="README/fiveneighbours.png" /> | 
 |:--:| 
 | *Rule 2294967786, two states, five neighbours* |
 
@@ -36,7 +36,7 @@ This Power BI report enables the user to traverse any[^1] conceivable ruleset wi
 
 This template requires the user to enter parameters as per the following screen (it is highly encouraged to start with default values):
 
-| <img src="README/parameters.PNG" /> | 
+| <img src="README/parameters.png" /> | 
 |:--:| 
 | *First launch parameter screen* |
 
@@ -55,7 +55,7 @@ This template requires the user to enter parameters as per the following screen 
 After the initialization of the report one can fine tune the parameters in Power Query Editor whilst looking at the preview of Stats table. 
 
 
-| <img src="README/stats.PNG" /> | 
+| <img src="README/stats.png" /> | 
 |:--:| 
 | *Stats table* |
 
